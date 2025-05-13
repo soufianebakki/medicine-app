@@ -1,2 +1,2 @@
-# medicine-app
-Working on a new app in the medicine domain to help improve healthcare.
+# Medicine App
+I'm currently working on a new app focused on the medicine domain. Stay tuned for more updates!
